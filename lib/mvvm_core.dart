@@ -1,0 +1,2 @@
+library mvvm_core;
+
