@@ -1,7 +1,7 @@
 name: mvvm_core
 description: "A simple mvvm core package"
 version: 0.0.1
-homepage: https://github.com/DearPowa/mvvm_core.git
+homepage: https://github.com/dearpowa/mvvm_core.git
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
