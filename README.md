@@ -11,12 +11,13 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+A simple mvvm package to start up a project
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+* ViewWidget
+* ViewModel
+* Model
 
 ## Getting started
 
@@ -29,6 +30,7 @@ TODO: Include short and useful examples for package users. Add longer examples
 to `/example` folder.
 
 ```dart
+
 const like = 'sample';
 ```
 
